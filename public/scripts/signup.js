@@ -50,7 +50,6 @@ async function previewFile(blob) {
     return url;
 }
 
-
 formEl.addEventListener('submit', submit);
 
 async function submit(e) {
