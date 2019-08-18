@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "basic-social-media",
+    "default": "basic-social-media"
+  }
+}

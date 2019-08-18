@@ -1,0 +1,38 @@
+/* body{
+    background: #20002c; 
+background: -webkit-linear-gradient(to right, #cbb4d4, #20002c);  
+background: linear-gradient(to right, #cbb4d4, #20002c); 
+
+} */
+body{
+   
+        background-image: url('../images/bg.jpg');
+       
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center
+    
+}
+#lock {
+    top: 500px
+}
+
+#add {
+    top: 50px
+}
+#loader{
+    display: block;
+    margin: auto;
+}
+
+.card{
+    width:177%;
+   
+   
+}
+.card .card-image img{
+    
+    display: inline-block;
+    width: 30%;
+   
+}
